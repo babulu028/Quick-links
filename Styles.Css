@@ -1,0 +1,15 @@
+a {
+  color: blue;
+  text-decoration: underline;
+  font-weight: Bold;
+  padding: 15px 35px 15px 35px;
+  border-radius: 10px;
+ }
+
+a:hover {
+  background-color: white; /* Slightly darker shade of blue */
+}
+
+ul li {
+  margin-right: 200px;
+}
